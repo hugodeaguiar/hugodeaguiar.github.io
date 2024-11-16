@@ -121,9 +121,9 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
+    repo: hugodeaguiar/hugodeaguiar.github.io
+    repo_id: 883934477
+    category: 
     category_id:
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
