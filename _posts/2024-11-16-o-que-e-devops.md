@@ -1,5 +1,5 @@
 ---
-title: O que é DevOps
+title: O que é DevOps?
 description: Bora iniciar a jornada para entender um pouco mais sobre o que é DevOps?
 date: 2024-11-16 13:00:00 +0800
 tags: [teoria]
