@@ -1,6 +1,6 @@
 ---
 title: O que é DevOps
-description: Bora iniciar a jornada para entender um pouco mais sobre **o que é DevOps*?
+description: Bora iniciar a jornada para entender um pouco mais sobre o que é DevOps?
 date: 2024-11-16 13:00:00 +0800
 tags: [teoria]
 ---
@@ -17,7 +17,7 @@ Na linha da aplicação de tecnologias podemos citar criação de **Pipelines**,
 Na linha cultural podemos citar a atuação direta com o time de desenvolvimento para aplicar etapas de Code Review e Testes com finalidade de garantir a qualidade mas sempre priorizando que o fluxo de produção continue funcionando.
 
 
-Nesta mesma linha do DevOps o mercado possui cargos relacionados como **SRE (Site Reliability Engineering)**, **DevSecOps** e **Plataform Engineer**. Mas podemos nos aprofundar mais neste tópico em um próximos post.
+Nesta mesma linha do profissional de DevOps, o mercado possui alguns cargos relacionados como por exemplo o **SRE (Site Reliability Engineering)**, **DevSecOps** e **Plataform Engineer**. Mas podemos nos aprofundar mais neste tópico em um próximos post.
 
 
 
