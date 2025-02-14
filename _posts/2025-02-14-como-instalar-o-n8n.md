@@ -45,8 +45,8 @@ Esses comandos **baixam a imagem do N8N** e **iniciam o container**, que ficará
 
 Após executar os comandos acima, acesse o N8N pelo navegador:  
 
-- **Se estiver rodando localmente** → [http://localhost:5678](http://localhost:5678)  
-- **Se estiver em um servidor remoto** → [http://IP_DO_SEU_SERVIDOR:5678](http://IP_DO_SEU_SERVIDOR:5678)  
+- **Se estiver rodando localmente** → [localhost:5678](localhost:5678)  
+- **Se estiver em um servidor remoto** → [IP_DO_SEU_SERVIDOR:5678](IP_DO_SEU_SERVIDOR:5678)  
 
 No primeiro acesso, será necessário **criar uma conta** com um pequeno cadastro. Depois disso, já pode começar a **automatizar seus workflows**! 
 
