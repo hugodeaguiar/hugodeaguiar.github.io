@@ -1,5 +1,5 @@
 ---
-title: Como Hospedar seu Site no GitHub Pages Gratuitamente (Passo a Passo)
+title: Como hospedar seu site no GitHub Pages gratuitamente (Passo a passo)
 description: Descubra como hospedar seu site ou blog gratuitamente no GitHub Pages, sem precisar de servidor próprio! Tutorial passo a passo.
 date: 2025-02-08 17:30:00 +0800
 tags: [github, tutorial]
@@ -25,7 +25,7 @@ Portanto, tenha em mente estes requisitos iniciais antes de se empolgar com a id
 
 Sempre valorize as documentações oficiais, principalmente das ferramentas mais populares. O próprio GitHub te fornece um [tutorial em Português](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-a-repository-for-your-site) para os primeiros passos configurando o GitHub Pages.
 
-### Como Configurar um Domínio Personalizado no GitHub Pages?
+### Como configurar um domínio personalizado no GitHub Pages?
 
 Quando você configura o seu site, o GitHub publica a página em URL seguindo o padrão do nome do repositório, como por exemplo este blog foi inicialmente configurado no destino hugodeaguiar.github.io, que é o mesmo nome do projeto criado no GitHub. Mas tem como configurar o seu próprio domínio! 
 
