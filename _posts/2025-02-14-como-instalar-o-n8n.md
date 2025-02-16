@@ -1,5 +1,5 @@
 ---
-title: Como Instalar o N8N no Seu Servidor Usando Docker  
+title: Como instalar o N8N no seu servidor usando Docker  
 description: Aprenda a instalar o N8N no seu servidor utilizando Docker e automatize seus workflows de forma simples e eficiente.  
 date: 2025-02-14 17:30:00 +0800  
 tags: [n8n, docker, automação, tutorial, devops]  
